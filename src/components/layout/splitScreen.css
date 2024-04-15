@@ -1,0 +1,22 @@
+.m---container {
+    display: flex;
+    flex-direction: column;
+}
+
+.m---left-pane {
+    flex: 1;
+}
+
+.m---right-pane {
+    flex: .2;
+}
+
+.background-color-left {
+    background-color: green;
+    
+}
+
+
+.background-color-right {
+    background-color: grey;
+}
